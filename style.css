@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;
+  font-family: 'Inconsolata', monospace;
   background-color: white ;
   color: #010101;
   font-weight: 500;
@@ -20,6 +20,7 @@ a {
   position: relative;
   top: 15%;
   bottom: 10%;
+  font-family: 'Source Code Pro', monospace;
 }
 
 
