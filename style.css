@@ -46,12 +46,18 @@ a {
 
 ul{
   list-style-type: none;
-
   border-right: 0.5px solid #E0E0E0;
+
+  padding: 10px;
 }
 li {
   display: inline-block;
   margin-left: 3px;
   margin-right: 3px;
   font-weight: 300px;
+}
+
+#list3 {
+  border: 0px;
+
 }
