@@ -1,0 +1,43 @@
+body {
+  font-family: monospace;
+  background-color: white ;
+  color: #010101;
+  font-weight: 500;
+  align-items: center;
+}
+a {
+  text-decoration: none;
+  min-width: 48px;
+  min-height: 48px;
+  padding: 10px;
+  color: black;
+}
+.content{
+  text-align: center;
+  width: 100%;
+}
+
+.settings {
+  border-right: 1px solid #999999;
+  height: 100%;
+  box-shadow: 2px #999999;
+  text-align: center;
+}
+
+#sessionTime {
+  width: 100%;
+  font-size: 15em;
+}
+
+#startbtn {
+  font-size: 4.5em;
+}
+
+#session,  #break {
+  width: 100%;
+  font-size: 1.5em;
+  padding: 10px;
+  margin: 10px;
+}
+
+ 
