@@ -62,3 +62,8 @@ li {
   border: 0px;
 
 }
+
+#say {
+  font-weight : bolder;
+  font-size: 1.3em;
+}
