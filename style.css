@@ -17,18 +17,16 @@ a {
 #sessionTime {
   width: 100%;
   font-size: 15em;
-  position: relative;
-  top: 15%;
-  bottom: 10%;
+
   font-family: 'Source Code Pro', monospace;
 }
 
 
-#startbtn {
+#startBtn {
   float:right;
-  font-weight: bolder;
-  font-size: 1.3em;
-  margin-top: 5px;
+  font-weight: bold;
+  font-size: 1.1em;
+  padding: 2px;
 
 }
 
